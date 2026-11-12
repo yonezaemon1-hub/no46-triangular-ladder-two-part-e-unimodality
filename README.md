@@ -56,3 +56,10 @@ However, full theorem-by-theorem review of the published 2019 SIAM
 Cho-Huh version was not completed; novelty is INCONCLUSIVE.
 The 2018 conference edition was compared directly. It would be wrong
 to assert that the full conjecture was solved.
+
+## Author correspondence (metadata update, 2026-11-12)
+
+**Ryutaro Yonezu — Independent Researcher**  
+Research correspondence: **yonezaemon1+research@gmail.com**
+
+This contact-information addition does not revise any mathematical claims, frozen verification files, published preprint PDF, release assets, DOI, or existing SHA256 checksums.
